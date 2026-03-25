@@ -4,7 +4,7 @@ python-jose[cryptography]
 passlib[bcrypt]
 pydantic
 python-multipart
-chroma-client
+chromadb
 langgraph
 langfuse
 streamlit
