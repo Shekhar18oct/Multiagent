@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-jose[cryptography]
+passlib[bcrypt]
+pydantic
+python-multipart
+chroma-client
+langgraph
+langfuse
+streamlit
+python-dotenv
+requests
+gitpython
